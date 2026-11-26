@@ -1,6 +1,6 @@
 # Brawl Together
 
-Versão atual: **v1.3**
+Versão atual: **v1.4**
 
 ## Download
 
@@ -24,6 +24,11 @@ Extraia o zip e abra `Brawl Together.exe` dentro da pasta.
 
 ## Jogar online
 
-- Os dois jogadores precisam estar na **mesma versão** (v1.3).
+- Os dois jogadores precisam estar na **mesma versão** (v1.4).
 - Deixe a **Steam aberta e logada** antes de abrir o jogo. Windows e Mac jogam juntos.
 - Na mesma rede Wi-Fi também dá para usar a opção de rede local, sem Steam.
+- Se a sala não aparecer na lista: quem criou vê o **código da sala** (Steam) e o **endereço na rede local**. O outro digita um deles em "Procurar salas" e clica em Entrar.
+
+## Computador fraco?
+
+No menu inicial, ligue **Gráficos leves (potato)**: modelos com bem menos polígonos e efeitos mais leves. As hitboxes não mudam.
